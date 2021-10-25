@@ -1,0 +1,7 @@
+.metadata/
+.sonarlint/
+.classpath
+.settings/
+.project
+target/
+*.bd
